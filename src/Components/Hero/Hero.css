@@ -1,0 +1,35 @@
+.hero-section {
+    background: rgba(39, 174, 96, 0.1);
+    height: 480px;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.hero__head {
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 48px;
+    color: #2B2B2B;
+    margin-bottom: 10px;
+}
+
+.hero__text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #515151;
+}
+
+.line {
+    background: #27AE60;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 0 auto;
+    height: 12px;
+    width: 44px;
+}
